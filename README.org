@@ -8,20 +8,20 @@
 - [-] hardware.html
 - [x] programming.html
 - [x] reqtitle.html
-- [] curator.html
-- [] topsellers.html
-- [] cart.html
+- [x] topsellers.html
+- [x] cart.html
 
 * Page list - Fixed nav links?
-- [] index.html
-- [] about-use.html
-- [] classics.html
+- [x] index.html
+- [x] about.html
+- [x] classics.html
 - [] clearance.html
-- [] contact.html
-- [] faq.html
-- [] hardware.html
-- [] programming.html
+- [x] contact.html
+- [x] faq.html
+- [x] hardware.html
+- [x] programming.html
 - [] reqtitle.html
+- [x] top-sellers.html
 
 This is because the template what slightly out of date, or pages weren't written before the template was.
 

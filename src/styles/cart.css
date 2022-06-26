@@ -1,0 +1,19 @@
+img.centered{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+}
+
+#cart{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 160px;
+}
+
+#cart span{
+    background-color:#282828;
+    border-radius: 50px;
+    padding: 10px;
+}
