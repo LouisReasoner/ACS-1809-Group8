@@ -6,3 +6,7 @@ dt a {
     color: #83a598;
 }
 
+main ol ol {
+    list-style-type: lower-greek;
+}
+

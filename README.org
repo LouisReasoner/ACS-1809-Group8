@@ -15,7 +15,7 @@
 - [x] index.html
 - [x] about.html
 - [x] classics.html
-- [] clearance.html
+- [x] clearance.html
 - [x] contact.html
 - [x] faq.html
 - [x] hardware.html
